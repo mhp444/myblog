@@ -43,47 +43,12 @@
         <description></description>
         </item>
         <item>
-        <title>Friends</title>
+        <title>tbx友人帐</title>
         <link>https://mhp.0pt.icu/links/</link>
         <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
         
         <guid>https://mhp.0pt.icu/links/</guid>
-        <description>&lt;style&gt;
-.article-header {
-    display: none;
-  }
-.article-footer {
-	display: none;
-  }
-
-&lt;/style&gt;
-&lt;p&gt;这个标题默认隐藏了标题与页尾，推荐用以下格式来交换友情链接。&lt;/p&gt;
-&lt;p&gt;友链头像放在&lt;code&gt;/assets/link-img&lt;/code&gt;，友链数据放在&lt;code&gt;/data/links.json&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;link.json格式为：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[
-    {
-        &amp;quot;title&amp;quot;: &amp;quot;小球飞鱼&amp;quot;,
-        &amp;quot;website&amp;quot;: &amp;quot;https://mantyke.icu/&amp;quot;,
-        &amp;quot;image&amp;quot;: &amp;quot;mantyke.png&amp;quot;,
-     &amp;quot;description&amp;quot;: &amp;quot;我们会一起遇见鲸鱼吗？&amp;quot;
-    },
-	{
-        &amp;quot;title&amp;quot;: &amp;quot;友情链接2&amp;quot;,
-        &amp;quot;website&amp;quot;: &amp;quot;&amp;quot;,
-        &amp;quot;image&amp;quot;: &amp;quot;&amp;quot;,
-     &amp;quot;description&amp;quot;: &amp;quot;&amp;quot;
-    }
-]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;blockquote&gt;
-&lt;p&gt;名称：小球飞鱼&lt;br&gt;
-简介：我们会一起遇见鲸鱼吗？&lt;br&gt;
-地址：&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://mantyke.icu/&lt;/a&gt;&lt;br&gt;
-头像：&lt;a class=&#34;link&#34; href=&#34;https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+        <description></description>
         </item>
         <item>
         <title>Search</title>
