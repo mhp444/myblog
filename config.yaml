@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://mhp.0pt.icu/
 languageCode: en-us
 theme: stack
 paginate: 5
-title: Example Site
+title: tbx
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -38,12 +38,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 🫥
+        subtitle: 我并没有从那段日子里走出来，是它自己走过去的
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/wang.png
 
     article:
         math: false
@@ -54,7 +54,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
