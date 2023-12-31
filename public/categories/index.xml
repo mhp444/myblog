@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on tbx</title>
-        <link>https://mhp.0pt.icu/categories/</link>
+        <link>https://blog.tbx.lockey.icu/categories/</link>
         <description>Recent content in Categories on tbx</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 13 Feb 2018 03:02:52 +0800</lastBuildDate><atom:link href="https://mhp.0pt.icu/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 13 Feb 2018 03:02:52 +0800</lastBuildDate><atom:link href="https://blog.tbx.lockey.icu/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>甘普基本变形定律</title>
-        <link>https://mhp.0pt.icu/categories/%E7%94%98%E6%99%AE%E5%9F%BA%E6%9C%AC%E5%8F%98%E5%BD%A2%E5%AE%9A%E5%BE%8B/</link>
+        <link>https://blog.tbx.lockey.icu/categories/%E7%94%98%E6%99%AE%E5%9F%BA%E6%9C%AC%E5%8F%98%E5%BD%A2%E5%AE%9A%E5%BE%8B/</link>
         <pubDate>Tue, 13 Feb 2018 03:02:52 +0800</pubDate>
         
-        <guid>https://mhp.0pt.icu/categories/%E7%94%98%E6%99%AE%E5%9F%BA%E6%9C%AC%E5%8F%98%E5%BD%A2%E5%AE%9A%E5%BE%8B/</guid>
+        <guid>https://blog.tbx.lockey.icu/categories/%E7%94%98%E6%99%AE%E5%9F%BA%E6%9C%AC%E5%8F%98%E5%BD%A2%E5%AE%9A%E5%BE%8B/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://mhp.0pt.icu/categories/test/</link>
+        <link>https://blog.tbx.lockey.icu/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://mhp.0pt.icu/categories/test/</guid>
-        <description>&lt;img src="https://mhp.0pt.icu/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://blog.tbx.lockey.icu/categories/test/</guid>
+        <description>&lt;img src="https://blog.tbx.lockey.icu/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>

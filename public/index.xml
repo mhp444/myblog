@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>tbx</title>
-        <link>https://mhp.0pt.icu/</link>
+        <link>https://blog.tbx.lockey.icu/</link>
         <description>Recent content on tbx</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mhp.0pt.icu/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.tbx.lockey.icu/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://mhp.0pt.icu/about/</link>
+        <link>https://blog.tbx.lockey.icu/about/</link>
         <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://mhp.0pt.icu/about/</guid>
+        <guid>https://blog.tbx.lockey.icu/about/</guid>
         <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
@@ -36,26 +36,26 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://mhp.0pt.icu/archives/</link>
+        <link>https://blog.tbx.lockey.icu/archives/</link>
         <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://mhp.0pt.icu/archives/</guid>
+        <guid>https://blog.tbx.lockey.icu/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>tbx友人帐</title>
-        <link>https://mhp.0pt.icu/links/</link>
+        <link>https://blog.tbx.lockey.icu/links/</link>
         <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://mhp.0pt.icu/links/</guid>
+        <guid>https://blog.tbx.lockey.icu/links/</guid>
         <description></description>
         </item>
         <item>
         <title>66666</title>
-        <link>https://mhp.0pt.icu/2018/stack-theme-mod/</link>
+        <link>https://blog.tbx.lockey.icu/2018/stack-theme-mod/</link>
         <pubDate>Tue, 13 Feb 2018 03:02:52 +0800</pubDate>
         
-        <guid>https://mhp.0pt.icu/2018/stack-theme-mod/</guid>
+        <guid>https://blog.tbx.lockey.icu/2018/stack-theme-mod/</guid>
         <description>&lt;p&gt;Github仓库地址：&lt;a class=&#34;link&#34; href=&#34;https://github.com/Mantyke&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Mantyke&lt;/a&gt;/&lt;a class=&#34;link&#34; href=&#34;https://github.com/Mantyke/Hugo-stack-theme-mod&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;stack-theme-mod&lt;/a&gt;&lt;/p&gt;
@@ -492,10 +492,10 @@ color: &amp;quot;#fff&amp;quot;
         </item>
         <item>
         <title>Search</title>
-        <link>https://mhp.0pt.icu/search/</link>
+        <link>https://blog.tbx.lockey.icu/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://mhp.0pt.icu/search/</guid>
+        <guid>https://blog.tbx.lockey.icu/search/</guid>
         <description></description>
         </item>
         

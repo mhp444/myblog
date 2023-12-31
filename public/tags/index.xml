@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on tbx</title>
-        <link>https://mhp.0pt.icu/tags/</link>
+        <link>https://blog.tbx.lockey.icu/tags/</link>
         <description>Recent content in Tags on tbx</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 13 Feb 2018 03:02:52 +0800</lastBuildDate><atom:link href="https://mhp.0pt.icu/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 13 Feb 2018 03:02:52 +0800</lastBuildDate><atom:link href="https://blog.tbx.lockey.icu/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo</title>
-        <link>https://mhp.0pt.icu/tags/hugo/</link>
+        <link>https://blog.tbx.lockey.icu/tags/hugo/</link>
         <pubDate>Tue, 13 Feb 2018 03:02:52 +0800</pubDate>
         
-        <guid>https://mhp.0pt.icu/tags/hugo/</guid>
+        <guid>https://blog.tbx.lockey.icu/tags/hugo/</guid>
         <description></description>
         </item>
         
