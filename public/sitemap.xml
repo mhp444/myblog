@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.tbx.lockey.icu/categories/</loc>
+    <lastmod>2024-01-11T03:02:52+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tbx.lockey.icu/post/</loc>
+    <lastmod>2024-01-11T03:02:52+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tbx.lockey.icu/tags/</loc>
+    <lastmod>2024-01-11T03:02:52+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tbx.lockey.icu/</loc>
+    <lastmod>2024-01-11T03:02:52+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tbx.lockey.icu/2024/tr/</loc>
+    <lastmod>2024-01-11T03:02:52+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tbx.lockey.icu/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2024-01-11T03:02:52+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.tbx.lockey.icu/tags/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A/</loc>
+    <lastmod>2024-01-11T03:02:52+08:00</lastmod>
+  </url><url>
     <loc>https://blog.tbx.lockey.icu/about/</loc>
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,29 +32,8 @@
     <loc>https://blog.tbx.lockey.icu/page/</loc>
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.tbx.lockey.icu/</loc>
-    <lastmod>2023-08-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.tbx.lockey.icu/links/</loc>
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.tbx.lockey.icu/2018/stack-theme-mod/</loc>
-    <lastmod>2018-02-13T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.tbx.lockey.icu/categories/</loc>
-    <lastmod>2018-02-13T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.tbx.lockey.icu/tags/hugo/</loc>
-    <lastmod>2018-02-13T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.tbx.lockey.icu/post/</loc>
-    <lastmod>2018-02-13T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.tbx.lockey.icu/tags/</loc>
-    <lastmod>2018-02-13T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.tbx.lockey.icu/categories/%E7%94%98%E6%99%AE%E5%9F%BA%E6%9C%AC%E5%8F%98%E5%BD%A2%E5%AE%9A%E5%BE%8B/</loc>
-    <lastmod>2018-02-13T03:02:52+08:00</lastmod>
   </url><url>
     <loc>https://blog.tbx.lockey.icu/search/</loc>
   </url><url>
