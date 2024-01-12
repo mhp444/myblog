@@ -26,7 +26,7 @@ slug: tr
 
 # 
 
-# 第一步：下载工具
+## 第一步：下载工具
 
 1.下载Tabby
 
@@ -50,9 +50,9 @@ slug: tr
 yum install unzip
 ```
 
-# 
+ 
 
-# 第二步: 运行服务端
+## 第二步: 运行服务端
 
 1.我们先创建一个用来存放泰拉瑞亚服务器的文件夹
 
@@ -75,8 +75,6 @@ wget https://terraria.org/api/download/pc-dedicated-server/terraria-server-1449.
 unzip terraria-server-1449.zip
 ```
 
-
-
 4.设置权限
 
 ```
@@ -92,7 +90,7 @@ cd 1449/Linux/
 ./TerrariaServer.bin.x86_64
 ```
 
-## 
+ 
 
 ## 第三步：游戏配制
 
@@ -200,11 +198,7 @@ Type"heip"for a list of commands
 :
 ```
 
-
-
-
-
-# 特（保持服务器运行）
+## 特（保持服务器运行）
 
 - 创建并进入名叫tr的screen
 
@@ -214,15 +208,7 @@ screen -S tr
 
 这行代码可以使服务器在电脑关闭时运行
 
-
-
 # 感谢知乎[Nu11# ](https://www.zhihu.com/people/Elez)
-
-
-
-
-
-
 
 # 本网站地址：
 

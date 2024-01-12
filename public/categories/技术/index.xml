@@ -14,7 +14,7 @@
         <guid>https://blog.tbx.lockey.icu/2024/tr/</guid>
         <description>&lt;p&gt;打不开局面的突破手，不敢奔向爱的懦夫&lt;/p&gt;
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;第一步下载工具&#34;&gt;第一步：下载工具&lt;/h1&gt;
+&lt;h2 id=&#34;第一步下载工具&#34;&gt;第一步：下载工具&lt;/h2&gt;
 &lt;p&gt;1.下载Tabby&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	
@@ -74,8 +74,7 @@
 &lt;p&gt;5.下载&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;yum install unzip
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;heading-1&#34;&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;第二步-运行服务端&#34;&gt;第二步: 运行服务端&lt;/h1&gt;
+&lt;h2 id=&#34;第二步-运行服务端&#34;&gt;第二步: 运行服务端&lt;/h2&gt;
 &lt;p&gt;1.我们先创建一个用来存放泰拉瑞亚服务器的文件夹&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cd /
 cd opt
@@ -97,7 +96,6 @@ cd tr
 &lt;pre&gt;&lt;code&gt;cd 1449/Linux/
 ./TerrariaServer.bin.x86_64
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;heading-2&#34;&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;第三步游戏配制&#34;&gt;第三步：游戏配制&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;/li&gt;
@@ -176,7 +174,7 @@ Listening on port 7777
 Type&amp;quot;heip&amp;quot;for a list of commands
 :
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;特保持服务器运行&#34;&gt;特（保持服务器运行）&lt;/h1&gt;
+&lt;h2 id=&#34;特保持服务器运行&#34;&gt;特（保持服务器运行）&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;创建并进入名叫tr的screen&lt;/li&gt;
 &lt;/ul&gt;
