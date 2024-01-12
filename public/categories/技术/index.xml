@@ -79,13 +79,11 @@ mkdir tr
 cd tr
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;2.下载服务端&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;https://terraria.org/api/download/pc-dedicated-server/terraria-server-1449.zip
+&lt;pre&gt;&lt;code&gt;wget https://terraria.org/api/download/pc-dedicated-server/terraria-server-1449.zip
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;3.解压&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;unzip terraria-server-1449.zip
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;跳至特保持服务器运行&#34;&gt;跳至（ 特（保持服务器运行））&lt;/h1&gt;
-&lt;p&gt;向下滑&lt;/p&gt;
 &lt;p&gt;4.设置权限&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cd opt
 sudo chmod -R 777 tr
@@ -181,7 +179,11 @@ Type&amp;quot;heip&amp;quot;for a list of commands
 &lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;screen -S tr
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;这行代码可以使服务器在电脑关闭时运行&lt;/p&gt;
-&lt;h1 id=&#34;heading-3&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;感谢知乎nu11-httpswwwzhihucompeopleelez&#34;&gt;感谢知乎&lt;a class=&#34;link&#34; href=&#34;https://www.zhihu.com/people/Elez&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Nu11# &lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;本网站地址&#34;&gt;本网站地址：&lt;/h1&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.tbx.lockey.icu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blog.tbx.lockey.icu/&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
 </description>
         </item>

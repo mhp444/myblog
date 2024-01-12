@@ -59,7 +59,7 @@ cd tr
 2.下载服务端
 
 ```
-https://terraria.org/api/download/pc-dedicated-server/terraria-server-1449.zip
+wget https://terraria.org/api/download/pc-dedicated-server/terraria-server-1449.zip
 ```
 
 3.解压
@@ -68,9 +68,7 @@ https://terraria.org/api/download/pc-dedicated-server/terraria-server-1449.zip
 unzip terraria-server-1449.zip
 ```
 
-# 跳至（ 特（保持服务器运行））
 
-向下滑
 
 4.设置权限
 
@@ -209,6 +207,18 @@ screen -S tr
 
 这行代码可以使服务器在电脑关闭时运行
 
-# 
+
+
+# 感谢知乎[Nu11# ](https://www.zhihu.com/people/Elez)
+
+
+
+
+
+
+
+# 本网站地址：
+
+[https://blog.tbx.lockey.icu/](https://blog.tbx.lockey.icu/)
 
 <br>
