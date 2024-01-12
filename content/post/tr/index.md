@@ -44,6 +44,12 @@ slug: tr
 
 <br>
 
+5.下载
+
+```
+yum install unzip
+```
+
 # 
 
 # 第二步: 运行服务端
@@ -51,6 +57,7 @@ slug: tr
 1.我们先创建一个用来存放泰拉瑞亚服务器的文件夹
 
 ```
+cd /
 cd opt
 mkdir tr
 cd tr
@@ -73,7 +80,7 @@ unzip terraria-server-1449.zip
 4.设置权限
 
 ```
-cd opt
+cd /opt
 sudo chmod -R 777 tr
 cd tr
 ```
