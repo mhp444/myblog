@@ -30,17 +30,17 @@ slug: tr
 
 1.下载Tabby
 
-![](A.png)
+![](https://img.tbx.lockey.icu/computer/tr/A.png)
 
 2.打开tabby并且点击
 
-![](C.png)
+![](https://img.tbx.lockey.icu/computer/tr/C.png)
 
 3.输入服务器ip
 
 4.进入后输入密码
 
-![](B.png)
+![](https://img.tbx.lockey.icu/computer/tr/B.png)
 
 <br>
 
@@ -49,8 +49,6 @@ slug: tr
 ```
 yum install unzip
 ```
-
- 
 
 ## 第二步: 运行服务端
 
@@ -89,8 +87,6 @@ cd tr
 cd 1449/Linux/
 ./TerrariaServer.bin.x86_64
 ```
-
- 
 
 ## 第三步：游戏配制
 
